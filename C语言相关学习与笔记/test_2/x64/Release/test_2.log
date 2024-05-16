@@ -1,0 +1,9 @@
+﻿  study.c
+D:\GITTE TMX\study-of-tianbusxing\C语言相关学习与笔记\test_2\study.c(834,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+x64\Release\plus.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  0 of 5 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  test_2.vcxproj -> D:\GITTE TMX\study-of-tianbusxing\C语言相关学习与笔记\x64\Release\test_2.exe
